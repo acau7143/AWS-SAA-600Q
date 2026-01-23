@@ -50,13 +50,13 @@ AWS Solutions Architect Associate(SAA) 시험(2월) 전에 600문제 풀이를 �
 
 \## Progress
 
-\- Total solved: 105 / 600  
+\- Total solved: 150 / 600  
 
-\- Notes written: 1
+\- Notes written: 2
 
 
 
-(매일 업데이트)
+
 
 
 
